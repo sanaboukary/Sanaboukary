@@ -10,7 +10,7 @@ Ce portfolio est optimisé pour être hébergé gratuitement sur GitHub Pages.
 
 1. **Créer un repository GitHub**
    - Créer un nouveau repository sur GitHub
-   - Nommer le repository : `sana-boukary.github.io` (remplacer par votre nom d'utilisateur)
+   - Nommer le repository : `sanaboukary.github.io` (remplacer par votre nom d'utilisateur)
 
 2. **Uploader les fichiers**
    - Uploader tous les fichiers du portfolio dans le repository
@@ -84,3 +84,4 @@ Pour personnaliser le portfolio :
 ---
 
 *Portfolio créé avec ❤️ pour mettre en valeur les compétences en Data Science*
+
