@@ -1,6 +1,6 @@
 # Portfolio Sana Boukary
 
-Portfolio professionnel de Sana Boukary, spécialisé en Data Science, Statistique Inférentielle et Économétrie.
+Portfolio professionnel de Sana Boukary, spécialisé en Data Science, Statistique Inférentielle, Économétrie et IA.
 
 ## 🚀 Déploiement sur GitHub Pages
 
@@ -84,4 +84,5 @@ Pour personnaliser le portfolio :
 ---
 
 *Portfolio créé avec ❤️ pour mettre en valeur les compétences en Data Science*
+
 
