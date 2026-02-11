@@ -54,7 +54,7 @@ const observer = new IntersectionObserver((entries) => {
 
 // Observe elements for animation
 document.addEventListener('DOMContentLoaded', () => {
-    const animatedElements = document.querySelectorAll('.project-card, .cert-card, .skill-item');
+    const animatedElements = document.querySelectorAll('.project-card, .cert-card, .skill-item, .expertise-card');
     
     animatedElements.forEach(el => {
         el.style.opacity = '0';
