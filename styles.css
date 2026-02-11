@@ -213,6 +213,100 @@ section {
     background: white;
 }
 
+/* Expertise Section */
+.expertise {
+    background: #f8fafc;
+}
+
+.expertise-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 2.5rem;
+}
+
+.expertise-card {
+    background: white;
+    border-radius: 15px;
+    padding: 2.5rem;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    border: 1px solid #e2e8f0;
+}
+
+.expertise-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 20px 50px rgba(90, 45, 130, 0.2);
+    border-color: #5a2d82;
+}
+
+.expertise-icon {
+    width: 70px;
+    height: 70px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+}
+
+.expertise-icon i {
+    font-size: 2rem;
+    color: white;
+}
+
+.expertise-card h3 {
+    font-size: 1.5rem;
+    color: #1e293b;
+    margin-bottom: 1rem;
+    font-weight: 700;
+}
+
+.expertise-card > p {
+    color: #64748b;
+    margin-bottom: 1.5rem;
+    line-height: 1.8;
+    font-size: 1.05rem;
+}
+
+.expertise-list {
+    list-style: none;
+    margin-bottom: 1.5rem;
+}
+
+.expertise-list li {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    color: #475569;
+    margin-bottom: 0.75rem;
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+
+.expertise-list i {
+    color: #5a2d82;
+    margin-top: 3px;
+    font-size: 0.9rem;
+}
+
+.expertise-tools {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid #e2e8f0;
+}
+
+.tool-tag {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 5px 12px;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    font-weight: 500;
+}
+
 .about-content {
     display: grid;
     grid-template-columns: 2fr 1fr;
@@ -508,6 +602,10 @@ section {
     .about-content {
         grid-template-columns: 1fr;
         gap: 2rem;
+    }
+
+    .expertise-grid {
+        grid-template-columns: 1fr;
     }
 
     .skills-grid {
