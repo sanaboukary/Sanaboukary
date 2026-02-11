@@ -80,14 +80,17 @@ Pour personnaliser le portfolio :
 
 Pour faciliter le développement et la personnalisation de votre portfolio, vous pouvez utiliser GitHub Copilot (agent IA) dans Visual Studio Code.
 
-📖 **[Consultez le guide complet d'utilisation de l'agent dans VSCode](GUIDE_VSCODE_AGENT.md)**
+📖 **Guides disponibles :**
+- **[Guide rapide - Démarrage en 5 minutes](GUIDE_RAPIDE_COPILOT.md)** ⚡
+- **[Guide complet d'utilisation de l'agent dans VSCode](GUIDE_VSCODE_AGENT.md)** 📚
 
-Ce guide vous explique :
+Ces guides vous expliquent :
 - Comment installer et configurer GitHub Copilot
 - Comment utiliser l'autocomplétion intelligente
 - Comment utiliser le chat Copilot pour poser des questions
 - Des exemples concrets pour améliorer votre portfolio
 - Les meilleures pratiques et astuces
+- Les raccourcis clavier essentiels
 
 ## 📞 Contact
 
