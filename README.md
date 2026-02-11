@@ -76,6 +76,22 @@ Pour personnaliser le portfolio :
 3. **Ajouter de nouveaux projets** en suivant la structure existante
 4. **Modifier les animations** dans `script.js`
 
+## 🤖 Utiliser GitHub Copilot dans VSCode
+
+Pour faciliter le développement et la personnalisation de votre portfolio, vous pouvez utiliser GitHub Copilot (agent IA) dans Visual Studio Code.
+
+📖 **Guides disponibles :**
+- **[Guide rapide - Démarrage en 5 minutes](GUIDE_RAPIDE_COPILOT.md)** ⚡
+- **[Guide complet d'utilisation de l'agent dans VSCode](GUIDE_VSCODE_AGENT.md)** 📚
+
+Ces guides vous expliquent :
+- Comment installer et configurer GitHub Copilot
+- Comment utiliser l'autocomplétion intelligente
+- Comment utiliser le chat Copilot pour poser des questions
+- Des exemples concrets pour améliorer votre portfolio
+- Les meilleures pratiques et astuces
+- Les raccourcis clavier essentiels
+
 ## 📞 Contact
 
 - Email : sana.boukary@email.com
